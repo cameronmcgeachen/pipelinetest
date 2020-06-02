@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Azure Reasource Test", "Azure Reasource Tets\Azure Reasource Test.deployproj", "{91CB4DFE-383F-4A18-BCDE-B9C3A9E1C9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CB4DFE-383F-4A18-BCDE-B9C3A9E1C9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CB4DFE-383F-4A18-BCDE-B9C3A9E1C9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CB4DFE-383F-4A18-BCDE-B9C3A9E1C9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CB4DFE-383F-4A18-BCDE-B9C3A9E1C9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B86AFA-6C33-4D71-8C3A-5460EA5C6A73}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/dxceclipsedeliveryexcellence
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Azure\u0020Reasource\u0020Tets\\Azure\u0020Reasource\u0020Test.deployproj
+		SccProjectName1 = Azure\u0020Reasource\u0020Tets
+		SccLocalPath1 = Azure\u0020Reasource\u0020Tets
+	EndGlobalSection
+EndGlobal
